@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.billcounter.com.ar/sitemap.xml

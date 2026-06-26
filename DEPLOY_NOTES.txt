@@ -1,0 +1,1 @@
+Bill Counter nueva v4 formal. Subir el contenido completo del ZIP al repo de GitHub Pages. No incluye CNAME para no mover todavía el dominio real.
